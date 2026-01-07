@@ -1,5 +1,5 @@
 <a href="https://moeyua.com">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=moeyua&show_icons=true&hide_border=true" />
+  <img align="right" src="github-readme-stats-theta-peach-97.vercel.app/api?username=moeyua&show_icons=true&hide_border=true" />
 </a>
 
 ### Hi, I'm Moeyua 👋
