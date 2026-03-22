@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Moeyua's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 675, Total Commits  (last year) : 3044, Total PRs: 215, Total Issues: 14, Contributed to (last year): 30</desc>
+        <desc id="descId">Total Stars Earned: 675, Total Commits  (last year) : 3045, Total PRs: 215, Total Issues: 14, Contributed to (last year): 30</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 32.408746748374654;
+        stroke-dashoffset: 32.40872168549815;
       }
     }
   
